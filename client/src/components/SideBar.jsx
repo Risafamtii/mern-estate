@@ -139,7 +139,7 @@ function SideBar(props) {
         <Typography paragraph>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
           tempor incididunt ut labore et dolore magna aliqua.
-        </Typography>
+        </Typography>               
         <Typography paragraph>
           Consequat mauris nunc congue nisi vitae suscipit.
         </Typography>
